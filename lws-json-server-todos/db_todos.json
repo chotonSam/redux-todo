@@ -1,0 +1,64 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "text": "Learn Modern ES6+ JavaScript",
+      "completed": true,
+      "color": "red"
+    },
+    {
+      "id": 3,
+      "text": "Learn React JS",
+      "completed": true,
+      "color": "yellow"
+    },
+    {
+      "text": "Learn Redux fundamentals",
+      "completed": true,
+      "id": 5,
+      "color": "red"
+    },
+    {
+      "text": "kola khaba ni",
+      "id": 6,
+      "completed": true,
+      "color": "yellow"
+    },
+    {
+      "text": "oi shalar putera",
+      "id": 7,
+      "completed": false,
+      "color": "red"
+    },
+    {
+      "text": "dhur shala",
+      "id": 8,
+      "completed": true,
+      "color": "yellow"
+    },
+    {
+      "text": "gg",
+      "id": 9,
+      "completed": true,
+      "color": "green"
+    },
+    {
+      "text": "valo aso tumi",
+      "completed": false,
+      "id": 10,
+      "color": "green"
+    },
+    {
+      "text": "tumi onk fajil miya",
+      "completed": true,
+      "id": 11,
+      "color": "yellow"
+    },
+    {
+      "text": "beyadop",
+      "completed": false,
+      "id": 12,
+      "color": "green"
+    }
+  ]
+}
