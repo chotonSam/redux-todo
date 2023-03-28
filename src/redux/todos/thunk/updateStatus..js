@@ -2,7 +2,7 @@ import { toggle } from "../actions";
 
 const updateStatus = (todoId, currentStatus) => {
     return async (dispatch) => {
-        const response = await fetch(`http://localhost:9000/todos/${todoId}`, {
+        const response = await fetch(`https://json-db-server.onrender.com/todos/${todoId}`, {
             method: "PATCH",
             body: JSON.stringify({
                 completed: !currentStatus,
